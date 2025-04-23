@@ -1,34 +1,39 @@
-# 🚗 Car Rental Power BI Dashboard – Dubai-Based Performance Insights
+# 🚗 Car Rental Power BI Dashboard
 
-This Power BI project visualizes the full operational performance of a car rental company based in Dubai.  
-It includes dynamic dashboards, KPIs, revenue trends, and detailed fleet utilization analysis – all built with DAX, custom design, and a professional reporting layout.
-
----
-
-## 📋 Project Summary
-
-- 🔹 **Business Focus**: Car rental operations in Dubai
-- 🔹 **Tools Used**: Microsoft Power BI, DAX, Canva (custom icons), Excel
-- 🔹 **Time Frame**: Real-time analysis of monthly performance
-- 🔹 **Design Style**: Modern UI with monochromatic custom icons (🎨 #D4C9BE & #123458)
+Welcome to a full-scale data visualization project for a Dubai-based car rental business using **Power BI**, **Excel**, and advanced **DAX** techniques.  
+This project includes interactive dashboards with executive insights, sales trends, and fleet utilization analytics designed with modern UI and custom iconography.
 
 ---
 
-## 📊 Dashboards Included
+## 📁 Project Dashboards Overview
 
-| Page | Description |
-|------|-------------|
-| 🧭 **Executive Dashboard** | KPI overview with total revenue, contracts, and utilization performance |
-| 📑 **Sales Overview** | Top revenue months, sales growth %, and car-wise revenue trends |
-| 📊 **Car Utilization** | Most/least utilized vehicles, average utilization %, and performance over time |
+### 🧭 [Executive Dashboard](./images/executive_dashboard.png)
+Track key business performance indicators including revenue, utilization %, and contracts with elegant KPI cards and summary visuals.
+
+![Executive Dashboard]([./images/executive_dashboard.png](https://drive.google.com/file/d/1Mscli2xxoJhMBRscfxWp75Z0UKzN7HkH/view?usp=sharing))
 
 ---
 
-## 🧠 Features & Insights
+### 📑 [Sales Overview](./images/sales_overview.png)
+Explore trends in total revenue, monthly performance, and top-performing months using custom visuals and line charts.
 
-- 📈 **Dynamic KPIs** that update by car type or month filters
-- 📊 **Utilization % Calculation** smartly adjusts based on user-selected filters
-- 🧮 **Custom DAX Measures** for actual vs target comparisons
-- 🎨 **Custom Icon Set** designed to fit the color theme
-- 🎥 **Interactive Video Preview** – [Watch here](#) *(Add your video link)*# car-rental-powerbi-dashboard
-Interactive Power BI dashboard for car rental performance in Dubai
+![Sales Overview]([./images/sales_overview.png](https://drive.google.com/file/d/1Ua8JVou5YpZJbC2VT--fj3DpMDDD-o37/view?usp=sharing))
+
+---
+
+### 📊 [Car Utilization Overview](./images/utilization_dashboard.png)
+Visualize most/least utilized cars, average performance, and monthly utilization with custom metrics and icons.
+
+![Utilization Dashboard]([./images/utilization_dashboard.png](https://drive.google.com/file/d/1QTyYBFSeSYjnMFMhUM21w6Gl9jolaHCX/view?usp=sharing))
+
+---
+
+## 🧠 Key Features
+
+- 📈 Dynamic KPI cards with color-coded targets  
+- 📅 Month and car-based filtering logic with adaptive calculations  
+- 💡 Smart comparison between actual vs target using DAX  
+- 🎨 Custom icons with a consistent theme (#D4C9BE & #123458)  
+- 📥 Export-ready design for client dashboards and reporting
+
+---
