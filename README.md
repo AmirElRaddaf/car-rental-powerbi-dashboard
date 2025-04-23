@@ -10,7 +10,7 @@ This project includes interactive dashboards with executive insights, sales tren
 ### 🧭 [Executive Dashboard](./images/executive_dashboard.png)
 Track key business performance indicators including revenue, utilization %, and contracts with elegant KPI cards and summary visuals.
 
-![Executive Dashboard]([./images/executive_dashboard.png](https://drive.google.com/file/d/1Mscli2xxoJhMBRscfxWp75Z0UKzN7HkH/view?usp=sharing))
+![Executive Dashboard](https://drive.google.com/file/d/1Mscli2xxoJhMBRscfxWp75Z0UKzN7HkH/view?usp=sharing)
 
 ---
 
