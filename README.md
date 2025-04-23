@@ -34,4 +34,6 @@ Visualize top and low-performing vehicles with monthly utilization trends.
 - 🎨 Custom icons with a consistent theme (#D4C9BE & #123458)  
 - 📥 Export-ready design for client dashboards and reporting
 
----
+## 🎥 Full Project Walkthrough
+
+👉 [Watch the full dashboard video explanation](https://drive.google.com/file/d/1rWLQnfTeEcHU1m9xT4kHx0iQDvqZM_W2/view?usp=sharing)
