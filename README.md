@@ -5,26 +5,24 @@ This project includes interactive dashboards with executive insights, sales tren
 
 ---
 
-## 📁 Project Dashboards Overview
+### 🧭 Executive Dashboard  
+Track key performance indicators including revenue, utilization %, and contracts.
 
-### 🧭 [Executive Dashboard](./images/executive_dashboard.png)
-Track key business performance indicators including revenue, utilization %, and contracts with elegant KPI cards and summary visuals.
-
-![Executive Dashboard](https://drive.google.com/file/d/1Mscli2xxoJhMBRscfxWp75Z0UKzN7HkH/view?usp=sharing)
+![Executive Dashboard](https://drive.google.com/uc?export=view&id=1Mscli2xxoJhMBRscfxWp75Z0UKzN7HkH)
 
 ---
 
-### 📑 [Sales Overview](./images/sales_overview.png)
-Explore trends in total revenue, monthly performance, and top-performing months using custom visuals and line charts.
+### 📑 Sales Overview  
+Explore trends in revenue and monthly performance.
 
-![Sales Overview]([./images/sales_overview.png](https://drive.google.com/file/d/1Ua8JVou5YpZJbC2VT--fj3DpMDDD-o37/view?usp=sharing))
+![Sales Overview](https://drive.google.com/uc?export=view&id=1Ua8JVou5YpZJbC2VT--fj3DpMDDD-o37)
 
 ---
 
-### 📊 [Car Utilization Overview](./images/utilization_dashboard.png)
-Visualize most/least utilized cars, average performance, and monthly utilization with custom metrics and icons.
+### 📊 Car Utilization Overview  
+Visualize top and low-performing vehicles with monthly utilization trends.
 
-![Utilization Dashboard]([./images/utilization_dashboard.png](https://drive.google.com/file/d/1QTyYBFSeSYjnMFMhUM21w6Gl9jolaHCX/view?usp=sharing))
+![Utilization Dashboard](https://drive.google.com/uc?export=view&id=1QTyYBFSeSYjnMFMhUM21w6Gl9jolaHCX)
 
 ---
 
