@@ -37,3 +37,8 @@ Visualize top and low-performing vehicles with monthly utilization trends.
 ## 🎥 Full Project Walkthrough
 
 👉 [Watch the full dashboard video explanation](https://drive.google.com/file/d/1rWLQnfTeEcHU1m9xT4kHx0iQDvqZM_W2/view?usp=sharing)
+
+👨‍💻 **Author:** [Amir El Raddaf](https://github.com/AmirElRaddaf)  
+📧 **Contact:** amirelradaf@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/amirelraddaf/)
